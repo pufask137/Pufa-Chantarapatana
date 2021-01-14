@@ -1,4 +1,7 @@
 <html>
+  <head>
+    <title>Pufa Chantarapatana</title>
+  </head>
   <body>
     <hr>
     <img src="mypicture.jpg" width="250" height="400">

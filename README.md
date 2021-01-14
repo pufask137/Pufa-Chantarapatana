@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>pufask137.github.io</title>

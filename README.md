@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <body>
   <h1>Pufa Chantarapatana</h1>
   <hr>
